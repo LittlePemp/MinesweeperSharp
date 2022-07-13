@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Main.resources
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Rules.resources
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Achivements.resources
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.StartGame.resources
+C:\Users\Igor\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Set.resources
